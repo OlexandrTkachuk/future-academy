@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/800.40c84f43.chunk.js","mappings":"wIAIA,UAJgB,WACd,OAAOA,EAAAA,EAAAA,KAAAC,EAAAA,SAAA,CAAAC,SAAE,WACX,C","sources":["pages/Courses.jsx"],"sourcesContent":["const Courses = () => {\n  return <>Courses</>;\n};\n\nexport default Courses;\n"],"names":["_jsx","_Fragment","children"],"sourceRoot":""}

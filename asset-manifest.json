@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.47b42029.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.47b42029.css.map": "/react-homework-template/static/css/main.47b42029.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/future-academy/static/css/main.47b42029.css",
+    "main.js": "/future-academy/static/js/main.ba85bf83.js",
+    "static/js/415.c6710cec.chunk.js": "/future-academy/static/js/415.c6710cec.chunk.js",
+    "static/js/800.40c84f43.chunk.js": "/future-academy/static/js/800.40c84f43.chunk.js",
+    "static/js/105.f2305085.chunk.js": "/future-academy/static/js/105.f2305085.chunk.js",
+    "static/js/529.d795faab.chunk.js": "/future-academy/static/js/529.d795faab.chunk.js",
+    "static/js/485.0939b668.chunk.js": "/future-academy/static/js/485.0939b668.chunk.js",
+    "static/media/Logo.svg": "/future-academy/static/media/Logo.0a92b2dd8b0fdb7691e0dc2c36b4b90a.svg",
+    "index.html": "/future-academy/index.html",
+    "main.47b42029.css.map": "/future-academy/static/css/main.47b42029.css.map",
+    "main.ba85bf83.js.map": "/future-academy/static/js/main.ba85bf83.js.map",
+    "415.c6710cec.chunk.js.map": "/future-academy/static/js/415.c6710cec.chunk.js.map",
+    "800.40c84f43.chunk.js.map": "/future-academy/static/js/800.40c84f43.chunk.js.map",
+    "105.f2305085.chunk.js.map": "/future-academy/static/js/105.f2305085.chunk.js.map",
+    "529.d795faab.chunk.js.map": "/future-academy/static/js/529.d795faab.chunk.js.map",
+    "485.0939b668.chunk.js.map": "/future-academy/static/js/485.0939b668.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47b42029.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.ba85bf83.js"
   ]
 }

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfuture_academy=self.webpackChunkfuture_academy||[]).push([[529],{529:function(e,u,a){a.r(u);var n=a(184);u.default=function(){return(0,n.jsx)(n.Fragment,{children:"Base"})}}}]);
+//# sourceMappingURL=529.d795faab.chunk.js.map
